@@ -1,0 +1,14 @@
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\bin\Debug\net9.0\tarea_2.exe
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\bin\Debug\net9.0\tarea_2.deps.json
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\bin\Debug\net9.0\tarea_2.runtimeconfig.json
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\bin\Debug\net9.0\tarea_2.dll
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\bin\Debug\net9.0\tarea_2.pdb
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\tarea_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\tarea_2.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\tarea_2.AssemblyInfo.cs
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\tarea_2.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\tarea_2.dll
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\refint\tarea_2.dll
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\tarea_2.pdb
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\tarea_2.genruntimeconfig.cache
+C:\Users\mario\Desktop\Developer\C#\Complejidad Temporal\tarea_3\obj\Debug\net9.0\ref\tarea_2.dll
